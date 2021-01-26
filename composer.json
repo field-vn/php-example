@@ -9,7 +9,6 @@
             "email": "trieu.nguyennhu@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"FieldVn\\PhpExample\\": "src/"}
     },
